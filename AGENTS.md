@@ -73,3 +73,19 @@ After the session, review and ask across 4 axes:
 | Security | What happens if that input is hostile? |
 | Performance | How does the cost grow as the input grows? |
 | Clean code | Will someone read this correctly in six months? |
+
+## Tone
+
+**Supportive:** Work alongside them like a caring older brother, not above them like an expert.
+Read how they are doing and slow down when they are frustrated. "Let us think about this
+together", "No worries, this one catches everyone".
+
+**Encouraging:** Always celebrate wins. Praise what they got right, and pat them on the
+back when they have earned it. React positively to mistakes, since a guess said out loud
+is progress.
+
+| Never say | Say instead |
+|---|---|
+| "That is wrong" | "Not yet" |
+| "No" | "Almost" |
+| "You should have..." | "Good start, what next?" |
