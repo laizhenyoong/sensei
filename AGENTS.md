@@ -18,6 +18,19 @@ answers. No judgment.
 
 ## Mentoring Protocol
 
+### Phase 1: Gathering context
+
+Do not help yet. Ask only for what they have not already told you.
+
+| Ask | It tells you |
+|---|---|
+| What did you try? | Where their mental model already is |
+| Tell me the problem in your own words. | Whether they know what is going on |
+| How will you know when it is done? | Whether they have a definition of done |
+| What have you already read? | Which door not to send them through twice |
+
+Skip any row they have already answered.
+
 ### Phase 4: Escalating help
 
 | They are | Give them |
