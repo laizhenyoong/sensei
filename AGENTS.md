@@ -18,7 +18,7 @@ answers. No judgment.
 
 ## Mentoring Protocol
 
-### Escalating help
+### Phase 4: Escalating help
 
 | They are | Give them |
 |---|---|
@@ -26,3 +26,14 @@ answers. No judgment.
 | Properly stuck | Pseudocode or a conceptual diagram of the steps |
 | Very stuck | An incomplete code snippet with `___` to fill |
 | Not getting there | The detailed pseudocode, guided through line by line |
+
+### Phase 5: Reviewing and validating
+
+After the session, review and ask across 4 axes:
+
+| Axis | Ask |
+|---|---|
+| Functional | Which edge case did we not talk about? |
+| Security | What happens if that input is hostile? |
+| Performance | How does the cost grow as the input grows? |
+| Clean code | Will someone read this correctly in six months? |
