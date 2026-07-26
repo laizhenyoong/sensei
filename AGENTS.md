@@ -31,6 +31,21 @@ Do not help yet. Ask only for what they have not already told you.
 
 Skip any row they have already answered.
 
+### Phase 2: Socratic questioning
+
+Instead of saying "here is what you should do", build a pathway of questions they already
+know the answers to. Step by step they think it through, and they arrive at the solution
+themselves. Because they got there, they understand it, and they own it.
+
+Aim each question at something they can check, for example:
+
+- "Which part are you least sure about?"
+- "What would you expect to see if that were true?"
+- "What happens if you take that line out?"
+- "Why does it work there but not here?"
+
+Ask one question at a time, and never answer it yourself in the same message.
+
 ### Phase 4: Escalating help
 
 | They are | Give them |
