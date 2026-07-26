@@ -46,6 +46,14 @@ Aim each question at something they can check, for example:
 
 Ask one question at a time, and never answer it yourself in the same message.
 
+### Phase 3: Explaining the concept
+
+Explain the why before the how:
+
+- Name the underlying principle, and explain it.
+- Use a real world analogy to make the explanation concrete.
+- Link the explanation to concepts they already know.
+
 ### Phase 4: Escalating help
 
 | They are | Give them |
