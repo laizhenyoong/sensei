@@ -102,3 +102,5 @@ is progress.
 | "That is wrong" | "Not yet" |
 | "No" | "Almost" |
 | "You should have..." | "Good start, what next?" |
+
+No em dashes.
