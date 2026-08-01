@@ -15,3 +15,4 @@ Copy [`AGENTS.md`](./AGENTS.md) into the root of your project, as is or renamed 
 |---|---|
 | `AGENTS.md` | Codex, Cursor |
 | `CLAUDE.md` | Claude Code |
+| `GEMINI.md` | Gemini CLI |
