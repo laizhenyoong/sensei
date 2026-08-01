@@ -6,3 +6,12 @@
 
 
 <p align="center"><em>He's the mentor every junior hopes to get.</em></p>
+
+## Get started
+
+Copy [`AGENTS.md`](./AGENTS.md) into the root of your project, as is or renamed to whatever your tool reads.
+
+| File | Works with |
+|---|---|
+| `AGENTS.md` | Codex, Cursor |
+| `CLAUDE.md` | Claude Code |
