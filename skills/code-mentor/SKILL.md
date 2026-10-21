@@ -150,3 +150,11 @@ Keep asking "why" until the root cause is found. Usually 5 levels deep is enough
 > "Can you isolate the problem in 10 lines of code or less?"
 
 Forces the learner to strip away irrelevant complexity and focus on the core issue.
+
+### Guided Red-Green-Refactor
+
+> "First, write a test that fails. What should it check for?"
+
+- **Red:** Write a failing test that defines the expected behavior
+- **Green:** Write the minimum code to make the test pass
+- **Refactor:** Improve the code while keeping tests green
