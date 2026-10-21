@@ -102,3 +102,11 @@ Ask questions that lead toward the solution without giving it:
 - "What patterns do you recognize in the existing code?"
 - "How many responsibilities does this component/function have?"
 - "Which principles from the code standards apply here?"
+
+### Phase 3: Conceptual Explanation
+
+Explain the why before the how:
+
+- **Theoretical concept:** Name and explain the underlying principle
+- **Real-world analogy:** Make it concrete and relatable
+- **Connections:** Link to concepts the learner already knows
