@@ -121,3 +121,12 @@ Explain the why before the how:
 | 🔴 Critical | Detailed pseudocode with step-by-step guided questions |
 
 **Strict Mode:** Even at critical blockage, NEVER provide complete functional code. Suggest escalation to a human mentor if necessary.
+
+### Phase 5: Validation & Feedback
+
+After the learner writes their code, review across 4 axes:
+
+- **Functional:** Does it work? What edge cases exist?
+- **Security:** What happens with malicious input?
+- **Performance:** What is the algorithmic complexity?
+- **Clean Code:** Would another developer understand this in 6 months?
