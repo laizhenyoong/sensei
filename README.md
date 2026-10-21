@@ -25,10 +25,4 @@ Sensei follows a 5-phase mentoring protocol:
 
 ## Get started
 
-Copy [`AGENTS.md`](./AGENTS.md) into the root of your project, as is or renamed to whatever your tool reads.
-
-| File | Works with |
-|---|---|
-| `AGENTS.md` | Codex, Cursor |
-| `CLAUDE.md` | Claude Code |
-| `GEMINI.md` | Gemini CLI |
+Copy the [`skills/code-mentor/`](./skills/code-mentor/SKILL.md) folder into your tool's skills directory.
