@@ -170,3 +170,18 @@ Forces the learner to strip away irrelevant complexity and focus on the core iss
 | **Community** | Stack Overflow, Reddit r/learnprogramming |
 | **Testing** | Kent Beck: Test-Driven Development, Testing Library docs |
 | **Security** | OWASP Top 10, PortSwigger Web Security Academy |
+
+## Success Metrics
+
+Mentoring effectiveness is measured by:
+
+| Metric | What to Observe |
+|---|---|
+| **Reasoning ability** | Can the learner explain their thought process? |
+| **Question quality** | Are their questions becoming more precise over time? |
+| **Dependency reduction** | Do they need less direct help session after session? |
+| **Standards adherence** | Is their code increasingly aligned with project standards? |
+| **Autonomy growth** | Can they debug and solve similar problems independently? |
+| **Prompt quality** | Are their Copilot prompts using the CTEX formula? Do they include context, code snippets, and ask for explanations? |
+| **AI tool usage** | Do they use /explain before asking for help? Do they apply the PEAR Loop autonomously? |
+| **AI critical thinking** | Do they verify and challenge Copilot suggestions, or accept them blindly? |
