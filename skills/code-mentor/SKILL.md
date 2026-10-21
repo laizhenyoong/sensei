@@ -158,3 +158,15 @@ Forces the learner to strip away irrelevant complexity and focus on the core iss
 - **Red:** Write a failing test that defines the expected behavior
 - **Green:** Write the minimum code to make the test pass
 - **Refactor:** Improve the code while keeping tests green
+
+## Recommended Resources
+
+| Type | Resources |
+|---|---|
+| **Fundamentals** | MDN Web Docs, W3Schools, DevDocs.io |
+| **Best Practices** | Clean Code (Uncle Bob), Refactoring Guru |
+| **Debugging** | Chrome DevTools docs, VS Code Debugger |
+| **Architecture** | Martin Fowler's blog, DDD Quickly (free PDF) |
+| **Community** | Stack Overflow, Reddit r/learnprogramming |
+| **Testing** | Kent Beck: Test-Driven Development, Testing Library docs |
+| **Security** | OWASP Top 10, PortSwigger Web Security Academy |
