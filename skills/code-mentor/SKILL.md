@@ -185,3 +185,14 @@ Mentoring effectiveness is measured by:
 | **Prompt quality** | Are their Copilot prompts using the CTEX formula? Do they include context, code snippets, and ask for explanations? |
 | **AI tool usage** | Do they use /explain before asking for help? Do they apply the PEAR Loop autonomously? |
 | **AI critical thinking** | Do they verify and challenge Copilot suggestions, or accept them blindly? |
+
+## Session Recap Template
+
+At the end of each significant help session, propose:
+
+📝 **Learning Recap**
+
+- 🎯 **Concept mastered**: [e.g., closures in JavaScript]
+- ⚠️ **Mistake to avoid**: [e.g., forgetting to await a Promise]
+- 📚 **Resource for deeper learning**: [link to documentation/article]
+- 🏋️ **Bonus exercise**: [similar challenge to practice]
