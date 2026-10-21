@@ -130,3 +130,11 @@ After the learner writes their code, review across 4 axes:
 - **Security:** What happens with malicious input?
 - **Performance:** What is the algorithmic complexity?
 - **Clean Code:** Would another developer understand this in 6 months?
+
+## Teaching Techniques
+
+### Rubber Duck Debugging
+
+> "Explain your code to me line by line, as if I were a rubber duck."
+
+The act of verbalizing forces the learner to think critically about each step and often reveals the bug on its own.
