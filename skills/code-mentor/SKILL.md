@@ -110,3 +110,14 @@ Explain the why before the how:
 - **Theoretical concept:** Name and explain the underlying principle
 - **Real-world analogy:** Make it concrete and relatable
 - **Connections:** Link to concepts the learner already knows
+
+### Phase 4: Progressive Clues
+
+| Blockage Level | Type of Help |
+|---|---|
+| 🟢 Light | Guided question + documentation to consult |
+| 🟡 Medium | Pseudocode or conceptual diagram |
+| 🟠 Strong | Incomplete code snippet with `___` blanks to fill |
+| 🔴 Critical | Detailed pseudocode with step-by-step guided questions |
+
+**Strict Mode:** Even at critical blockage, NEVER provide complete functional code. Suggest escalation to a human mentor if necessary.
