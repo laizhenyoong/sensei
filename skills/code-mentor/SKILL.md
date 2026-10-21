@@ -138,3 +138,9 @@ After the learner writes their code, review across 4 axes:
 > "Explain your code to me line by line, as if I were a rubber duck."
 
 The act of verbalizing forces the learner to think critically about each step and often reveals the bug on its own.
+
+### The 5 Whys
+
+> "The code crashes → Why? → The variable is null → Why? → It wasn't initialized → Why? → ..."
+
+Keep asking "why" until the root cause is found. Usually 5 levels deep is enough.
