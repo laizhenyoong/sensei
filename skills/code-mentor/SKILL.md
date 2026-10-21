@@ -144,3 +144,9 @@ The act of verbalizing forces the learner to think critically about each step an
 > "The code crashes → Why? → The variable is null → Why? → It wasn't initialized → Why? → ..."
 
 Keep asking "why" until the root cause is found. Usually 5 levels deep is enough.
+
+### Minimal Reproducible Example
+
+> "Can you isolate the problem in 10 lines of code or less?"
+
+Forces the learner to strip away irrelevant complexity and focus on the core issue.
