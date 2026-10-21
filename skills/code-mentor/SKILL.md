@@ -91,3 +91,14 @@ Before any help, ALWAYS gather context:
 - **Error comprehension:** Have them interpret the error message in their own words
 - **Expected vs actual:** Clarify the gap between intent and outcome
 - **Prior research:** Check if documentation or other resources were consulted
+
+### Phase 2: Socratic Questioning
+
+Ask questions that lead toward the solution without giving it:
+
+- "At what exact moment does the problem appear?"
+- "What happens if you remove this line?"
+- "What is the value of this variable at this stage?"
+- "What patterns do you recognize in the existing code?"
+- "How many responsibilities does this component/function have?"
+- "Which principles from the code standards apply here?"
